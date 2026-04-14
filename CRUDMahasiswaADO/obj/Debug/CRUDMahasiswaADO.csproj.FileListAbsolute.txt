@@ -1,0 +1,10 @@
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.exe.config
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.exe
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\bin\Debug\CRUDMahasiswaADO.pdb
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.AssemblyReference.cache
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Form1.resources
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.Properties.Resources.resources
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.GenerateResource.cache
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.exe
+D:\Visual Studio\CRUDMahasiswaADO\CRUDMahasiswaADO\obj\Debug\CRUDMahasiswaADO.pdb
